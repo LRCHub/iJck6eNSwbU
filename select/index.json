@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "憑いている - Haunted (feat. HATSUNE MIKU)",
+  "base_artist": "Ruliea",
+  "createdAt": "2026-03-20T05:17:30.871557Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "憑いている (feat. 初音ミク)",
+      "artist": "Ruliea",
+      "has_synced": false,
+      "path": "select/pl_01_憑いている_(feat._初音ミク)_Ruliea.txt"
+    }
+  ]
+}
